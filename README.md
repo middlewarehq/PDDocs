@@ -2,12 +2,16 @@
 ## How it Works
 MiddlewareHQ seamlessly integrates with PagerDuty to provide valuable incident data and analytics for engineering teams. Here's how the integration functions:
 Incident Data Ingestion: MiddlewareHQ continuously ingests incident data from PagerDuty, including information about services, teams, and users involved in incident management.
+
 **Data Synchronization**: MiddlewareHQ syncs the incident data, services, teams, and user information from PagerDuty and saves it within its system.
 Analytics and Metrics: With the synchronized data, MiddlewareHQ leverages its analytical capabilities to generate meaningful metrics and insights. These metrics may include Change Failure Rate, Mean Time to Recovery (MTTR), Incident Frequency, and more.
+
 **Data Transformation**: MiddlewareHQ transforms the raw incident data from PagerDuty into actionable insights. The tool processes and organizes the data, making it easier for engineering teams to work on improving incident response and resolution processes.
 Reporting and Visualization: MiddlewareHQ provides visually rich dashboards and reports, offering a clear view of incident trends, patterns, and areas for improvement. The integration enables engineering teams to monitor their incident management performance effectively.
+
 **Incident Analysis**: By analyzing the incident data from PagerDuty, MiddlewareHQ helps identify root causes, recurring issues, and potential bottlenecks. This facilitates proactive measures to make teams more effective.
 Please note that MiddlewareHQ focuses on incident data analysis and reporting and does not directly manage incidents or trigger alerts. The data synchronization between MiddlewareHQ and PagerDuty allows engineering teams to gain valuable insights from the incident data and make data-driven decisions to improve their incident response strategies.
+
 ## Requirements
 Before setting up the integration between MiddlewareHQ and PagerDuty, please ensure that the following requirements are met:
 
